@@ -1,0 +1,9 @@
+.button-right{
+    margin-top: 10px;
+    display: flex;
+    justify-content: right;
+}
+
+nav{
+    color: white;
+}
